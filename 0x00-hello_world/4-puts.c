@@ -1,15 +1,7 @@
 #include <stdio.h>
-#include <string.h>
 
-int main() {
- 
-  // initializing strings
-  char str1[] = "Hello World";
- // char str2[] = "Using puts in C";
+int main (void)
 
-  // writing to stdout
-  puts(str1);
-//  puts(str2);
-
-  return 0;
+{ puts ("\n Programming is like building a multilingual puzzle");
+	return 0;
 }
