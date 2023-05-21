@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
- *  main - This is my first programing
- *  return: 0(success)
+ * main - A program that print aline puts function
+ * main: A program that print a line
+ * return : 0 (success)
+ * voide:Is empity value
  */
 int main(void)
 {
