@@ -7,8 +7,8 @@ int main(void)
 {
 int i;
 for (i = 'z'; i >= 'a'; i--)
-{prinf("%c", i);
+{printf("%c", i);
 }
-printf " \n ");
+printf(" \n ");
 return (0);
 }
