@@ -46,5 +46,5 @@ int check_if_palind(char *s, int i, int len)
 		return (0);
 	if (i >= len)
 		return (1);
-	return (check_if_pal);
+	return (check_if_palind(s, i + 1, len - 1));
 }
